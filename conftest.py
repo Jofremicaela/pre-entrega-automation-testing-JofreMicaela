@@ -33,7 +33,6 @@ def pytest_runtest_makereport(item,call):
 
     report = outcome.get_result()
 
-    # when = setup, call o teardown
     if report.when == "call" and report.failed:
         driver = item.funcargs.get("driver")
 
