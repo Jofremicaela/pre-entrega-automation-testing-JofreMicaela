@@ -1,10 +1,9 @@
-# Proyecto de automatizacion QA - Jofre Micaela
+# Proyecto de automatizacion QA - Jofre Micaela Ailen
 
 
 ## Descripcion
 
 Proyecto de automatizacion de pruebas realizadas con Python, Selenium WebDriver y Pytest.
-
 
 El objetivo del proyecto es automatizar distintas pruebas funcionales de una aplicacion web.
 
