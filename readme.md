@@ -10,9 +10,11 @@ El objetivo del proyecto es automatizar distintas pruebas funcionales de una apl
 ## Tecnologias usadas 
 - Python
 - Selenium WebDriver
+- Biblioteca Requests para pruebas de API
 - Pytest
 - Pytest html
 - Git
+- GitHub como repositorio de código
 
 ## Instalacion
 
@@ -49,3 +51,4 @@ pip install -r requirements.txt
  Navega al carrito de compras
  
  Comprueba que el producto añadido aparezca correctamente en el carrito
+
